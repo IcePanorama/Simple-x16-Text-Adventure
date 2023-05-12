@@ -13,4 +13,4 @@ move:
 	cp $(TARGET) ~/x16emu_linux-r41
 
 clean:
-	rm $(SRC_DIR)*.o *.PRG
+	rm $(SRC_DIR)*.o *.PRG *.list
